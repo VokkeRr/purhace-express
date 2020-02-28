@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/purhace-express/static/css/main.9d7520bb.chunk.css",
+    "main.js": "/purhace-express/static/js/main.577918b3.chunk.js",
+    "main.js.map": "/purhace-express/static/js/main.577918b3.chunk.js.map",
+    "runtime-main.js": "/purhace-express/static/js/runtime-main.21bb0f82.js",
+    "runtime-main.js.map": "/purhace-express/static/js/runtime-main.21bb0f82.js.map",
+    "static/js/2.59a6e9d1.chunk.js": "/purhace-express/static/js/2.59a6e9d1.chunk.js",
+    "static/js/2.59a6e9d1.chunk.js.map": "/purhace-express/static/js/2.59a6e9d1.chunk.js.map",
+    "index.html": "/purhace-express/index.html",
+    "precache-manifest.2a7f92e5dac31d16c6ca2320aeefaf76.js": "/purhace-express/precache-manifest.2a7f92e5dac31d16c6ca2320aeefaf76.js",
+    "service-worker.js": "/purhace-express/service-worker.js",
+    "static/css/main.9d7520bb.chunk.css.map": "/purhace-express/static/css/main.9d7520bb.chunk.css.map",
+    "static/js/2.59a6e9d1.chunk.js.LICENSE.txt": "/purhace-express/static/js/2.59a6e9d1.chunk.js.LICENSE.txt",
+    "static/media/loader.gif": "/purhace-express/static/media/loader.29e4cf8b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21bb0f82.js",
+    "static/js/2.59a6e9d1.chunk.js",
+    "static/css/main.9d7520bb.chunk.css",
+    "static/js/main.577918b3.chunk.js"
+  ]
+}
